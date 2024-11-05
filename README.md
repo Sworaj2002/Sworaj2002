@@ -16,7 +16,7 @@
 - Projects that involve data analysis and visualization
 
 ## 📂 Key Projects:
-- **[IPL Victory Forecast](link-to-your-project)**: A project that utilizes statistical analysis and predictive modeling techniques to forecast IPL match outcomes
+- **[IPL Victory Forecast](https://github.com/Sworaj2002/IPLVICTORYFORECAST-PROJECT)**: A project that utilizes statistical analysis and predictive modeling techniques to forecast IPL match outcomes
 - **[Employee Leave Management System](https://github.com/Sworaj2002/Employee-Leave-Management-System)**: A system for managing employee leave requests and approvals.
 
 ## 🛠️ Technologies and Tools:
