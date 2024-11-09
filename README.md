@@ -25,7 +25,7 @@
 - **Databases**: MySQL
 
 ## 📫 How to reach me:
-- Email: [sworajtaduhappy@gmail.com](mailto:sworajtaduhappy@gmail.com)
+- Email: [sworajtadu@gmail.com](mailto:sworajtadu@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sworaj-tadu-782886263/)
 - GitHub: [My GitHub](https://github.com/Sworaj2002)
 - HackerRank: [My HackerRank](https://www.hackerrank.com/profile/sworajtadu)
