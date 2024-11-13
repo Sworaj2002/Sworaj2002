@@ -21,8 +21,8 @@
 - **[BingeBox](https://github.com/Sworaj2002/BingeBox)**: An intuitive and engaging OTT platform and seamless user interaction and navigation.
 
 ## 🛠️ Technologies and Tools:
-- **Languages**: JavaScript, Python, SQL, Java
-- **Frameworks**: React, Vite, Flask
+- **Languages**: JavaScript, Python, SQL, Java, PHP, C, HTML, CSS
+- **Frameworks**: React, Vite, Flask, Django
 - **Databases**: MySQL
 
 ## 📫 How to reach me:
