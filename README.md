@@ -39,7 +39,9 @@
 
 ## 🛠️ Tech Stack  
 🔥 **Languages**: Python, Java, AWS, C, HTML, CSS, JavaScript
+
 🚀 **Frameworks**: React, Vite, Flask, Django  
+
 🗄️ **Databases**: MySQL  
 
 ---
