@@ -13,7 +13,7 @@
 
 ## 📚 Currently Learning  
 - ⚛ **Advanced React & Vite** for seamless UI/UX  
-- 🐍 **Best practices in Python development**  
+- 🐍 **Best practices in Python and Django development**  
 - 🗄️ **Database management with MySQL**  
 
 ---
@@ -38,7 +38,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-🔥 **Languages**: JavaScript, Python, SQL, Java, PHP, C, HTML, CSS  
+🔥 **Languages**: Python, Java, AWS, C, HTML, CSS, JavaScript
 🚀 **Frameworks**: React, Vite, Flask, Django  
 🗄️ **Databases**: MySQL  
 
