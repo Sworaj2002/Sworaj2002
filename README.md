@@ -25,12 +25,18 @@
 
 ---
 
-## 🏆 Key Projects  
+## 🏆 Key Projects 
+📌 **[Defects](https://github.com/Sworaj2002/Defects)**  
+🐞 A bug/defect tracking system to efficiently report, track, and manage software issues 
+
 📌 **[IPL Victory Forecast](https://github.com/Sworaj2002/IPLVICTORYFORECAST-PROJECT)**  
 📊 Statistical analysis and predictive modeling for IPL match outcomes  
 
 📌 **[Employee Leave Management System](https://github.com/Sworaj2002/Employee-Leave-Management-System)**  
 📅 A streamlined system for managing employee leave requests and approvals  
+
+📌 **[Elect-Vox](https://github.com/Sworaj2002/Elect-Vox)**  
+🗳️ A modern voting application designed to revolutionize the voting process with transparency and efficiency  
 
 📌 **[BingeBox](https://github.com/Sworaj2002/BingeBox)**  
 🎬 A feature-rich OTT platform ensuring **seamless user interaction & navigation**  
@@ -38,7 +44,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-🔥 **Languages**: Python, Java, AWS, C, HTML, CSS, JavaScript
+🔥 **Languages**: Python, Java, AWS, C, HTML, CSS, JavaScript  
 
 🚀 **Frameworks**: React, Vite, Flask, Django  
 
